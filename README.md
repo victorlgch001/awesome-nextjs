@@ -16,7 +16,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
   - [Essentials](#essentials)
   - [Articles](#articles)
   - [Boilerplates](#boilerplates)
-  - [Extensions](#extensions)
+  - [ns](#extensions)
   - [Apps](#apps)
   - [Books](#books)
   - [Videos](#videos)
@@ -163,7 +163,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [next-deploy](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
 - [next-joi](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with _joi_.
 - [next-transpile-modules](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node_modules. Useful for monorepos.
-- [Destack for Next.js](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
+- [Destack for Next.js](https://github.com/liveduo/destack) - Next.js n to visually build landing pages locally.
 - [UseSIWE](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
 - [Runtime Environment Variables for Next.js](https://www.npmjs.com/package/@cuww/runtime-env) – Stop configuring ENV variables in CI/CD, use a cloud-native approach.
 - [next-google-tag-manager](https://github.com/XD2Sketch/next-google-tag-manager) – Easily add Google Tag Manager to Next 13 and up.
@@ -171,6 +171,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Vercel AI SDK](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
 - [ShotOG](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
+- [ogimg.xyz](https://ogimg.xyz) - API for generating Open Graph images using Satori on Vercel Edge. 10 templates, background patterns, URL auto-fetch. Free tier available.
 
 ## Apps
 
